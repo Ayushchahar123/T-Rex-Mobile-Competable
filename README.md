@@ -1,1 +1,1 @@
-# T-Rex-Mobile-Competable
+# T-Rex-Runner-Color
